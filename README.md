@@ -1,4 +1,3 @@
-# Data-Pre-Processing
+# Data-Pre-Processing (Data preprocessing can refer to manipulation or dropping of data before it is used in order to ensure or enhance performance,[1] and is an important step in the data mining process. The phrase "garbage in, garbage out" is particularly applicable to data mining and machine learning projects. Data-gathering methods are often loosely controlled, resulting in out-of-range values (e.g., Income: −100), impossible data combinations (e.g., Sex: Male, Pregnant: Yes), and missing values, etc.)
 Data Pre Processing On Google Collab 
-Read Data Pre Processing.pdf 
 You Can understand the code i already describe in pdf file.
